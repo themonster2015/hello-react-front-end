@@ -8,7 +8,12 @@ const initialState = {
 }
 
 export const fetchGreeting = () => async(dispatch) => {
-    await fetch('http://localhost:3000/v1/greetings.json')
+    await fetch('http://localhost:3000/v1/greetings.json', {
+        'mode': 'cors',
+        'headers': {
+            'Access-Control-Allow-Origin': '*',
+        }
+    })
     .then(res => res.json())
     .then(data =>  {
         console.log(data)
