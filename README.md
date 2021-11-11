@@ -4,8 +4,7 @@
 
 ## Screenshots
 
-  ![Screen Shot 2021-10-15 at 10 23 19](https://user-images.githubusercontent.com/10905837/137460007-ee391052-62f3-44d2-8013-533f417901ee.png)
-
+![Screen Shot 2021-11-09 at 12 14 43](https://user-images.githubusercontent.com/10905837/141271627-6daa8337-9f96-4d6e-b7b2-3a7961dad05c.png)
 
 
 ## Built With
